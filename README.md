@@ -1,6 +1,7 @@
 AIUB Sports Complex
 
-A Java-based application to manage and book sports slots in AIUB Sports Complex.
+A Java-based application to manage and book sports slots at the AIUB Sports Complex. With a user-friendly GUI, this application allows the admin to manage available slots, while users can book the slot of their choice. It also features separate login and signup sections for both admin and user. Keep track of your sports activities with ease using the AIUB Sports Complex application!
+
 Features
 
     Admin can manage available slots for playing.
@@ -16,7 +17,7 @@ Getting Started
 
     Clone the repository to your local machine.
     Open the project in your preferred Java IDE.
-    Run the Main class in the src directory.
+    Run the Start class in the directory.
     Follow the instructions on the application to sign up or log in as an admin or user.
 
 Note
