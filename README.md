@@ -22,6 +22,7 @@ Getting Started
 Note
 
 This project does not use any database for storing data. The information will be lost when the application is closed.
+
 Contributing
 
 We welcome contributions from the community. If you want to contribute, please follow these steps:
